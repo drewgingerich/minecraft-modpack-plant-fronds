@@ -8,4 +8,4 @@
 6. Wait for mod-pack to install
 7. Click `Play`: it will open the official Minecraft Launcher App
 8. Verify that the `Plant Fronds` profile has been automatically selected selected
-9. Hit `Play` to open Minecraft with the modpack
+9. Hit `Play` to open Minecraft with the mod-pack
