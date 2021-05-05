@@ -1,3 +1,28 @@
+# Mods
+
+Common mods are present in both server and client modpacks. Client mods are only present in client modpack (duh).
+
+## Common
+- Biomes O' Plenty
+- Blood Magic
+- Botania
+- The Twilight Forest
+- The Undergarden
+- Valhelsia Structures
+- Villager Names
+- Waystones
+- YUNG's Better Caves
+- YUNG's Better Mineshafts
+- YUNG's Better Strongholds
+
+## Client
+- Appleskin
+- Jade
+- Just Enough Items
+- Mouse Tweaks
+- Inventory Tweaks Renewed
+- SwingThroughGrass
+  
 # How to use
 
 1. Install the [CurseForge App](https://curseforge.overwolf.com/)
