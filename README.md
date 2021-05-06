@@ -13,4 +13,4 @@
 
 # Server setup
 
-I deploy to a single-node [k3s](https://k3s.io/) server in [another project](https://github.com/drewgingerich/homelab-cloud). I use the `itzg/docker-minecraft-server container`  and basically just follow the instructions in [the container's Github repo](https://github.com/itzg/docker-minecraft-server).
+I deploy to a single-node [k3s](https://k3s.io/) server in [another project](https://github.com/drewgingerich/homelab-cloud). I use the `itzg/docker-minecraft-server` container  and basically just follow the instructions in [the container's Github repo](https://github.com/itzg/docker-minecraft-server).
