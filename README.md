@@ -10,3 +10,7 @@
 8. Verify that the `plant-fronds` profile has been automatically selected
 9. Hit the `Play` button to launch Minecraft with the modpack
 10. If a server is set up with the same modpack, you can now connect to it
+
+# Server setup
+
+I deploy to a single-node [k3s](https://k3s.io/) server in [another project](https://github.com/drewgingerich/homelab-cloud). I use the `itzg/docker-minecraft-server container`  and basically just follow the instructions in [the container's Github repo](https://github.com/itzg/docker-minecraft-server).
