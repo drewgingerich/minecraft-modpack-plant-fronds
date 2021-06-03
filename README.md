@@ -4,7 +4,7 @@
 2. Open the CurseForge app and select Minecraft
 3. Click the `+ Create Custom Profile` button
 4. In the pop-up menu, click on the `import` hyperlink
-5. In the file selection dialogue, select `plant-fronds.zip` from the client folder of this project
+5. In the file selection dialogue, select the zip file from the `client` folder of the modpack you want (e.g. `plant-fronds/client/plant-fronds.zip`)
 6. Wait for the modpack to install
 7. Click the `Play` button: it will open the official Minecraft Launcher app
 8. Verify that the `plant-fronds` profile has been automatically selected
