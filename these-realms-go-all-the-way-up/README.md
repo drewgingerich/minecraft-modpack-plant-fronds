@@ -1,3 +1,5 @@
+Download the Modrinth modpack file and open it with the [Modrinth App](https://modrinth.com/app).
+
 - New dimensions:
   - [The Aether](https://modrinth.com/mod/aether)
   - [The Undergarden](https://modrinth.com/mod/the-undergarden)
